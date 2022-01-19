@@ -2,4 +2,9 @@ numpy
 scipy
 matplotlib
 reciprocalspaceship
-mpl_interactions[jupyter]
+mpl_interactions
+ipympl>=0.8.2
+ipywidgets>=7.6
+jupyterlab~=3.2.0
+jupyterlite==0.1.0a19
+mpl-interactions
