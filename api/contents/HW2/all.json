@@ -1,0 +1,97 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-01-19T19:33:35.799603Z",
+      "format": null,
+      "last_modified": "2022-01-19T19:33:35.799603Z",
+      "mimetype": null,
+      "name": "data",
+      "path": "HW2/data",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-01-19T19:33:35.803603Z",
+      "format": null,
+      "last_modified": "2022-01-19T19:32:59.019359Z",
+      "mimetype": null,
+      "name": "examples.ipynb",
+      "path": "HW2/examples.ipynb",
+      "size": 556901,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-01-19T19:33:35.803603Z",
+      "format": null,
+      "last_modified": "2022-01-19T19:32:59.019359Z",
+      "mimetype": "text/csv",
+      "name": "mass_coefficients.csv",
+      "path": "HW2/mass_coefficients.csv",
+      "size": 114956,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-01-19T19:33:35.803603Z",
+      "format": null,
+      "last_modified": "2022-01-19T19:32:59.019359Z",
+      "mimetype": "text/x-python",
+      "name": "scatter.py",
+      "path": "HW2/scatter.py",
+      "size": 5036,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-01-19T19:33:35.803603Z",
+      "format": null,
+      "last_modified": "2022-01-19T19:32:59.019359Z",
+      "mimetype": "text/plain",
+      "name": "scatteringfunction.txt",
+      "path": "HW2/scatteringfunction.txt",
+      "size": 2910,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-01-19T19:33:35.803603Z",
+      "format": null,
+      "last_modified": "2022-01-19T19:32:59.019359Z",
+      "mimetype": "text/plain",
+      "name": "formfactor.txt",
+      "path": "HW2/formfactor.txt",
+      "size": 2912,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-01-19T19:33:35.799603Z",
+      "format": null,
+      "last_modified": "2022-01-19T19:32:59.015359Z",
+      "mimetype": "text/csv",
+      "name": "atomic_mass.csv",
+      "path": "HW2/atomic_mass.csv",
+      "size": 2827,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-01-19T19:33:35.803603Z",
+  "format": "json",
+  "last_modified": "2022-01-19T19:33:35.803603Z",
+  "mimetype": null,
+  "name": "HW2",
+  "path": "HW2",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
